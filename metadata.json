@@ -1,0 +1,8 @@
+{
+  "name": "UTILA - The Ultimate Web Utility Suite",
+  "description": "A comprehensive collection of professional-grade tools for images, documents, calculations, text, development, and more.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
